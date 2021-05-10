@@ -7,7 +7,7 @@
       :x:Bug maker.<br>
       :watermelon:Watermelon killer.<br>
       :book:Ctrl CV engineer.<br>
-      :cd:Rock lovers.<br>
+      :cd:Rock lover.<br>
       :joy:Enjoy the code that i'm not enjoy.<br>
     <br><br>
 <img src="sleep.gif" width="240px" align="center">
