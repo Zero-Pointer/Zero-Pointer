@@ -16,6 +16,11 @@
 
 ## About Repositories
 
+#### :star: HostRefresher
+
+* 一个能够帮你自动化加速 Github 的小程序（目前仅限 Windows 版本）
+* [下载链接](https://github.com/Zero-Pointer/HostRefresher)
+
 #### :star: QT 大作业 -- PushBox
 
 * 项目实现了推箱子和搜索算法
