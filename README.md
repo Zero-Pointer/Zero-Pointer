@@ -8,7 +8,7 @@
       :watermelon:Watermelon killer.<br>
       :book:Ctrl CV engineer.<br>
       :cd:Rock lover.<br>
-      :joy:Enjoy the code that i'm not enjoy.<br>
+      :joy:Enjoy the code!<br>
     <br><br>
 <img src="sleep.gif" width="240px" align="center">
 <br><br>
