@@ -1,5 +1,7 @@
 ## About Me
 
+<img align="right" alt="Funny Gif" src="sleep.gif" width="500" height="auto" style="zoom:50%;" />
+
 :wave: Hi! I'm *Zero-Pointer*
 
 :school: ​Undergraduate of *NKU*
@@ -11,6 +13,8 @@
 :cd: *Rock lover*
 
 :speech_balloon: ``pengtian86@163.com``
+
+
 
 ---
 
