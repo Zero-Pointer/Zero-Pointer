@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" alt="Funny Gif" src="sleep.gif" width="220" height="auto" />
+<img align="center" alt="Funny Gif" src="sleep.gif" width="220" height="auto" />
 
 :wave: Hi! I'm *Zero-Pointer*
 
