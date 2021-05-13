@@ -1,5 +1,4 @@
-## About Me
-
+## About Me &nbsp;<img align="right" alt="Funny Gif" src="https://visitor-badge.glitch.me/badge?page_id=Zero-Pointer.Zero-Pointer" width="80" height="auto" />
 <img align="right" alt="Funny Gif" src="sleep.gif" width="220" height="auto" />
 
 :wave: Hi! I'm *Zero-Pointer*
