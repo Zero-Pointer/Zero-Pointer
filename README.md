@@ -24,6 +24,11 @@
 * 一个能够帮你自动化加速 Github 的小程序（目前仅限 Windows 版本）
 * [下载链接](https://github.com/Zero-Pointer/HostRefresher)
 
+#### :star: HelloMatrix 用户引导手册
+
+* 欢迎大家使用我们的矩阵计算器！
+* [项目链接](https://github.com/Zero-Pointer/HelloMatrixUserGuide)
+
 #### :star: QT 大作业 -- PushBox
 
 * 项目实现了推箱子和搜索算法
