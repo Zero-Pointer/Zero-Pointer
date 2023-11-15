@@ -3,7 +3,7 @@
 
 :wave: Hi! I'm *Zero-Pointer*
 
-:school: ​Undergraduate of *NKU*
+:school: ​*NKU*
 
 :x: *Bug maker*
 
